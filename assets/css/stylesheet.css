@@ -19,3 +19,8 @@ footer{
     background-color:rgb(59, 119, 100);
     padding: 1rem;
 }
+aside img{
+    width: 12rem;    
+   padding-left: 2rem;
+   padding-bottom: 2rem;
+}
